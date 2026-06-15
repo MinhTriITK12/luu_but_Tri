@@ -21,6 +21,19 @@ document.addEventListener("DOMContentLoaded", () => {
             finalLetter: "Tâm Anh à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng món quà e dành tặng cho anh đã tiếp thêm rất nhiều ý chí để anh có thể hoàn thành tốt kì thi tốt nghiệp thpt. Chúc e tương lai sẽ luôn rộng mở và sẽ có được một anh ny tinh tế và hết mực yêu thương mình nhé, cảm ơn vì lưu bút, cảm ơn vì món quà và cảm ơn vì đã là một người trong hành trình trưởng thành của anh\n\nKý tên: anh Trí ."
         },
 
+        "Nhật Anh best fen ": {
+            name: "Nhật Anh",
+            // Link ảnh: có thể là tên file ảnh (nằm chung thư mục) hoặc link trên mạng
+            image: "anh/nhatanh.jpg",
+            message: "Gửi bạn tui Nhật Anh\n\n  Từ những ngày đầu vào lớp mình, tụi mình đã chơi chung với nhau nhỉ, chả biết tự khi nào mà 2 đứa lại hay chơi chung, hay điện video tâm sự nhỉ. Thời gian 2 đứa còn chơi chung là khoảng thời gian vui nhỉ, cùng nhau hỏi bài nhau, cùng nhau tán gẫu về chuyện yêu đương, cùng nhau học chuyên và hay đặt ra câu hỏi ngu ngơ, và những câu hỏi 'Bài này làm sao m', 'Mày hiểu bài ni không giảng ta với' \n\n Thời gian sắp đến, ta biết m sẽ chọn được ngành và trường yêu thích của m ở Hồ Chí Minh thoi, nhưng dù có học ở đâu thì chúc m sẽ thành công trên con đường mình chọn nhé! Sau này có nhớ ta thì mở lại link lưu bút của ta mà đọc nhé. Cảm ơn vì đã là một phần trong thanh xuân đáng nhớ của ta hihi @@",
+            quotes: [
+                "Bài ni làm sao m?",
+                "Sao m đúng được test đó hay v",
+                "Sống tốt nhé cậu, cùng nhau thành công nhé !!!"
+            ],
+            finalLetter: "Nhật Anh à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng những kỉ niệm thời học sinh sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé bạn tui!!!\n\nKý tên: Minh Trí ."
+        },
+
         // --- BẠN CÓ THỂ THÊM NGƯỜI THỨ 2 VÀO DƯỚI NÀY BẰNG CÁCH XÓA 2 DẤU GẠCH CHÉO // ĐẦU DÒNG ---
         // "mot_id_khac_vi_du": {
         //     name: "Tên Bạn Khác",
@@ -268,6 +281,26 @@ document.addEventListener("DOMContentLoaded", () => {
         btnHug.innerText = "❤️ Cái ôm đã được gửi đi!";
         btnHug.style.cursor = "default";
         hugStatus.innerText = "Trí đã nhận được cái ôm của cậu. Cảm ơn vì tất cả!";
+
+        // =============== PHẦN THÊM MỚI ===============
+        // Thay link bạn vừa copy ở Bước 3 vào giữa 2 dấu nháy kép bên dưới
+        const scriptURL = "https://script.google.com/macros/s/AKfycbzSwr_1KndzVWjiLJxZHAGyio46E6RS1Yap5NO_UJ1W19jQDjD90TMaqFVP6cETa_I-/exec";
+
+        // Lấy tên của người đang xem hiện tại
+        const personName = currentPersonData ? currentPersonData.name : "Một người bạn ẩn danh";
+
+        // Gửi ngầm dữ liệu lên Google Sheets
+        fetch(`${scriptURL}?name=${encodeURIComponent(personName)}`, {
+            method: 'GET',
+            mode: 'no-cors' // Bỏ qua lỗi bảo mật CORS của trình duyệt
+        })
+            .then(() => {
+                console.log("Đã gửi thành công cái ôm của", personName);
+            })
+            .catch(error => {
+                console.error("Lỗi khi gửi:", error);
+            });
+        // ==============================================
     }
 
     btnHug.addEventListener("mousedown", startHug);
