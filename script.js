@@ -47,6 +47,45 @@ document.addEventListener("DOMContentLoaded", () => {
             finalLetter: "Nhã Kỳ à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp bên nhau thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé tri kỉ của tui!!!\n\nKý tên: Minh Trí ."
         },
 
+        "Trí trêu Ny Quỳnh": {
+            name: "Ny Quỳnh",
+            // Link ảnh: có thể là tên file ảnh (nằm chung thư mục) hoặc link trên mạng
+            image: "anh/nhaky.jpg",
+            message: "Gửi tri kỉ Nhã Kỳ\n\n  Ban đầu tớ định viết lưu bút tay thoi, nma đây là bản web nè, từ cuộc trò chuyện đầu tiên trên tiktok đến cuộc hẹn ở ngoài là khoảng thời gian đáng nhớ nhỉ. Thời gian bên nhau có lẽ là khoảng thời gian cx khá hạnh phúc nhưng cx khá sóng gió, khi 2 đứa không thể cho nhau thêm cơ hội. Rồi bỏ lỡ nhau một cách đáng tiếc. Dù như thế nào thì cậu vẫn là một khoảng thanh xuân đẹp nhất trong hành trình trưởng thành của tớ. Cảm ơn cậu vì những chuỗi ngày cười đùa, những ngày nói chuyện không biết chán. Những lúc giảng bài hăng say cho cậu. Cảm ơn cậu vì tất cả nha \n\n Khoảng thời gian này tớ biết là cậu đang rơi vào rất nhiều luồng suy nghĩ về tương lai, về điểm thi, nhưng hãy tạm gác qua và tận hưởng trọn vẹn kì nghỉ hè, trước khi bước vào giảng đường đại học đầy chông gai và khó khăn này nhé. Cố lên bạn tui, lên kèo rồi tụi mình lại đi chơi nhee! Quý lắm đó hihi@@",
+            quotes: [
+                "Bạn là ai vậy?",
+                "Cho mình xin facebook bạn với",
+                "Sống tốt nhé cậu, cùng nhau thành công nhé, cùng là Đà Nẵng có gì khó khăn hãy gọi tớ nhe !!!"
+            ],
+            finalLetter: "Nhã Kỳ à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp bên nhau thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé tri kỉ của tui!!!\n\nKý tên: Minh Trí ."
+        },
+
+        "Thương đồng run của Trí": {
+            name: "Thương",
+            // Link ảnh: có thể là tên file ảnh (nằm chung thư mục) hoặc link trên mạng
+            image: "anh/hoaithuong.jpg",
+            message: "Gửi đồng run Hoài Thương\n\n  Ban đầu tớ định viết lưu bút tay thoi, nma đây là bản web nè. Lớp công nghệ chính là cái lớp khiến cho tui làm quen được người bạn như cậu đó ha. Quả thật thời gian trôi nhanh thật, những ấn tượng ban đầu về cậu khá nhiều. Phải gọi là một cô gái có thể làm rung động bất kì chàng trai nào luôn đó. Rồi cũng tình cờ lại được cậu rủ đi chạy bộ chung ha. Nói chung là những khoảnh khắc đáng nhớ đó sẽ được tớ ghi nhớ rất nhiều đấy. Cảm ơn vì đã là một phần thanh xuân của tớ nha.\n\n Kỳ thi đại học đã qua ròi, dù kết quả có như thế nào thì hãy nhớ là sống đối xử thật tốt với sức khoẻ của mình nhé, và hãy duy trì việc tập luyện thể thao để có được cơ thể khoẻ khoắn như Trí vậy nè, cuối cùng vẫn là một lời hẹn khi cậu mở lại lưu bút online là 'Ít bữa hẹn cậu chạy bộ típ nhé'. Lời mời này sẽ còn mãi đến khi lớn, khi cậu mở lại lưu bút online của tớ hihi. Cuối cùng thì chúc cậu thành công trên con đường mình chọn nhé !!!!",
+            quotes: [
+                "Cho mình mượn sách công nghệ?",
+                "Sáng mai thứ 5 đi chạy bộ nha",
+                "Sống tốt nhé cậu, cùng nhau thành công nhé !!!"
+            ],
+            finalLetter: "Thương à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé đồng run của tui!!!\n\nKý tên: Minh Trí ."
+        },
+
+        "Trí trêu Ny Quỳnh": {
+            name: "Ny Quỳnh",
+            // Link ảnh: có thể là tên file ảnh (nằm chung thư mục) hoặc link trên mạng
+            image: "anh/nhaky.jpg",
+            message: "Gửi tri kỉ Nhã Kỳ\n\n  Ban đầu tớ định viết lưu bút tay thoi, nma đây là bản web nè, từ cuộc trò chuyện đầu tiên trên tiktok đến cuộc hẹn ở ngoài là khoảng thời gian đáng nhớ nhỉ. Thời gian bên nhau có lẽ là khoảng thời gian cx khá hạnh phúc nhưng cx khá sóng gió, khi 2 đứa không thể cho nhau thêm cơ hội. Rồi bỏ lỡ nhau một cách đáng tiếc. Dù như thế nào thì cậu vẫn là một khoảng thanh xuân đẹp nhất trong hành trình trưởng thành của tớ. Cảm ơn cậu vì những chuỗi ngày cười đùa, những ngày nói chuyện không biết chán. Những lúc giảng bài hăng say cho cậu. Cảm ơn cậu vì tất cả nha \n\n Khoảng thời gian này tớ biết là cậu đang rơi vào rất nhiều luồng suy nghĩ về tương lai, về điểm thi, nhưng hãy tạm gác qua và tận hưởng trọn vẹn kì nghỉ hè, trước khi bước vào giảng đường đại học đầy chông gai và khó khăn này nhé. Cố lên bạn tui, lên kèo rồi tụi mình lại đi chơi nhee! Quý lắm đó hihi@@",
+            quotes: [
+                "Bạn là ai vậy?",
+                "Cho mình xin facebook bạn với",
+                "Sống tốt nhé cậu, cùng nhau thành công nhé, cùng là Đà Nẵng có gì khó khăn hãy gọi tớ nhe !!!"
+            ],
+            finalLetter: "Nhã Kỳ à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp bên nhau thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé tri kỉ của tui!!!\n\nKý tên: Minh Trí ."
+        },
+
         // --- BẠN CÓ THỂ THÊM NGƯỜI THỨ 2 VÀO DƯỚI NÀY BẰNG CÁCH XÓA 2 DẤU GẠCH CHÉO // ĐẦU DÒNG ---
         // "mot_id_khac_vi_du": {
         //     name: "Tên Bạn Khác",
