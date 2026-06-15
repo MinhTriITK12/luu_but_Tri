@@ -47,19 +47,6 @@ document.addEventListener("DOMContentLoaded", () => {
             finalLetter: "Nhã Kỳ à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp bên nhau thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé tri kỉ của tui!!!\n\nKý tên: Minh Trí ."
         },
 
-        "Trí trêu Ny Quỳnh": {
-            name: "Ny Quỳnh",
-            // Link ảnh: có thể là tên file ảnh (nằm chung thư mục) hoặc link trên mạng
-            image: "anh/nhaky.jpg",
-            message: "Gửi tri kỉ Nhã Kỳ\n\n  Ban đầu tớ định viết lưu bút tay thoi, nma đây là bản web nè, từ cuộc trò chuyện đầu tiên trên tiktok đến cuộc hẹn ở ngoài là khoảng thời gian đáng nhớ nhỉ. Thời gian bên nhau có lẽ là khoảng thời gian cx khá hạnh phúc nhưng cx khá sóng gió, khi 2 đứa không thể cho nhau thêm cơ hội. Rồi bỏ lỡ nhau một cách đáng tiếc. Dù như thế nào thì cậu vẫn là một khoảng thanh xuân đẹp nhất trong hành trình trưởng thành của tớ. Cảm ơn cậu vì những chuỗi ngày cười đùa, những ngày nói chuyện không biết chán. Những lúc giảng bài hăng say cho cậu. Cảm ơn cậu vì tất cả nha \n\n Khoảng thời gian này tớ biết là cậu đang rơi vào rất nhiều luồng suy nghĩ về tương lai, về điểm thi, nhưng hãy tạm gác qua và tận hưởng trọn vẹn kì nghỉ hè, trước khi bước vào giảng đường đại học đầy chông gai và khó khăn này nhé. Cố lên bạn tui, lên kèo rồi tụi mình lại đi chơi nhee! Quý lắm đó hihi@@",
-            quotes: [
-                "Bạn là ai vậy?",
-                "Cho mình xin facebook bạn với",
-                "Sống tốt nhé cậu, cùng nhau thành công nhé, cùng là Đà Nẵng có gì khó khăn hãy gọi tớ nhe !!!"
-            ],
-            finalLetter: "Nhã Kỳ à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp bên nhau thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé tri kỉ của tui!!!\n\nKý tên: Minh Trí ."
-        },
-
         "Thương đồng run của Trí": {
             name: "Thương",
             // Link ảnh: có thể là tên file ảnh (nằm chung thư mục) hoặc link trên mạng
