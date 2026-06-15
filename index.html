@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lưu Bút Thanh Xuân - Nguyễn Minh Trí</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Google Fonts for emotional and premium typography -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;700&family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Quicksand:wght@400;500;600&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <!-- Background Particle Canvas for nostalgic floating sparks -->
+    <canvas id="particle-canvas"></canvas>
+
+    <!-- Background Music Audio Element -->
+    <audio id="bg-music" loop>
+        <source src="0615.MP3" type="audio/mpeg">
+    </audio>
+
+    <div class="container">
+        <!-- BƯỚC 1: Màn hình Chào mừng -->
+        <section id="step-1" class="step active">
+            <div class="card-box welcome-box">
+                <h1 class="fade-in-text">Chào mừng đến với lưu bút của Trí</h1>
+
+                <div class="spinner">
+                    <div class="dot"></div>
+                    <div class="dot"></div>
+                    <div class="dot"></div>
+                </div>
+
+                <button id="btn-start" class="btn-primary">Ấn vào để tiếp tục</button>
+            </div>
+        </section>
+
+        <!-- BƯỚC 2: Mở khóa Định danh ID -->
+        <section id="step-2" class="step">
+            <div class="card-box lock-box">
+                <h2>Mở Khóa Ký ức</h2>
+                <p class="subtitle">Mỗi người bạn giữ một chiếc chìa khóa định danh riêng...</p>
+
+                <div class="input-group">
+                    <input type="text" id="id-input" placeholder="Nhập ID lưu bút của bạn..." autocomplete="off">
+                    <span class="error-msg" id="error-msg">Mã ID không chính xác. Hãy thử lại nhé!</span>
+                </div>
+
+                <button id="btn-unlock" class="btn-primary">Mở khóa ký ức</button>
+            </div>
+        </section>
+
+        <!-- BƯỚC 3: Hiển thị nội dung tâm tư & Hình ảnh -->
+        <section id="step-3" class="step">
+            <div class="card-box memory-box">
+                <div class="memory-header">
+                    <h2 id="memory-title">Ký ức cùng bạn</h2>
+                </div>
+                <div class="memory-body">
+                    <div class="image-wrapper">
+                        <img id="memory-img" src="" alt="Hình ảnh kỷ niệm">
+                    </div>
+                    <div class="message-wrapper">
+                        <div id="typewriter-text" class="message-content"></div>
+                    </div>
+                </div>
+                <button id="btn-next-game" class="btn-primary" style="margin-top: 35px; display: none;">Chạm sâu vào ký
+                    ức</button>
+            </div>
+        </section>
+
+        <!-- BƯỚC 4: Trải nghiệm tương tác khơi gợi cảm xúc -->
+        <section id="step-4" class="step">
+            <div class="card-box interactive-box">
+                <h2>Bầu Trời Ký Ức</h2>
+                <p class="interactive-intro">Có những vì sao đang đợi cậu thắp sáng. Hãy chạm vào từng vì sao để nhớ lại
+                    những gì chúng ta từng đi qua...</p>
+
+                <div class="stars-container" id="stars-container"></div>
+
+                <div id="star-quote-box" class="quote-box">
+                    <p id="star-quote-text">Nhấp vào một ngôi sao để khơi gợi một mảnh ký ức...</p>
+                </div>
+
+                <div class="final-letter-section" id="final-letter-section"
+                    style="display: none; opacity: 0; transition: opacity 2s;">
+                    <h3 class="magic-text">Cậu đã thắp sáng tất cả. Hộp thời gian đã mở...</h3>
+                    <div class="letter-envelope" id="envelope">
+                        <div class="envelope-top"></div>
+                        <div class="letter">
+                            <p class="tear-text" id="final-letter-text"></p>
+                        </div>
+                    </div>
+                    <p class="click-instruction" id="envelope-instruction">Nhấp vào phong thư để đọc lời nhắn từ đáy
+                        lòng</p>
+
+                    <div class="hug-section" id="hug-section" style="display: none;">
+                        <p class="hug-instruction">Nếu cậu cũng đang mỉm cười (hay đang rơi nước mắt), hãy nhấn giữ nút
+                            dưới đây 3 giây để gửi lại tớ một cái ôm nhé.</p>
+                        <button id="btn-hug" class="btn-hug">❤️ Nhấn Giữ Để Gửi Cái Ôm</button>
+                        <div class="progress-bar-container">
+                            <div class="progress-bar" id="hug-progress"></div>
+                        </div>
+                        <p id="hug-status" class="reply-status"></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
