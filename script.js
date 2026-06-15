@@ -157,9 +157,7 @@ document.addEventListener("DOMContentLoaded", () => {
             star.innerHTML = "★";
 
             star.addEventListener("click", () => {
-                // Xóa trạng thái active của các ngôi sao khác
-                document.querySelectorAll(".star").forEach(s => s.classList.remove("active"));
-                // Thêm hiệu ứng lấp lánh cho ngôi sao vừa chọn
+                // Thêm hiệu ứng lấp lánh cho ngôi sao vừa chọn và giữ nó sáng mãi
                 star.classList.add("active");
 
                 // Thay đổi nội dung câu nói hoài niệm kèm hiệu ứng làm mờ nhẹ
