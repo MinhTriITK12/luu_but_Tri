@@ -73,6 +73,19 @@ document.addEventListener("DOMContentLoaded", () => {
             finalLetter: "Ny Quỳnh à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé bạn của tui!!!\n\nKý tên: Minh Trí ."
         },
 
+        "Hạc con deth Phương Thuỳ": {
+            name: "Phương Thuỳ",
+            // Link ảnh: có thể là tên file ảnh (nằm chung thư mục) hoặc link trên mạng
+            image: "anh/phuongthuy.jpg",
+            message: "Gửi Phương Thuỳ nha!\n\n Để quen biết được Phương Thuỳ cũng là hành trình dài ha, xưa lớp 10 thấy cậu hay chơi với Bội Trâm nè, cũng biết biết đó, sau đó vô Hạc mới được nọi chuyện với Thuỳ nhiều hơn nè. Thuỳ là một cô gái siu dễ thương và gần gũi với bạn bè luôn. Đặc biệt điều tui ấn tượng là Thuỳ có giọng nói nhẹ nhàng, điều tớ rất ấn tượng luôn, cùng với đó là quá nhiều hoa tay luôn nè. Những lần sinh hoạt clb, lâu lâu lại hay ngắm m, thông cảm cho ta nghe kkkk. Nói chứ sắp tới có học ở đâu thì nếu có khó khăn gì thì hãy điện ta 1 tiếng nhe, tui sẽ sẵn sàng giúp đỡ bạn đó hihi. \n\n Mấy nay chắc m áp lực với điểm thi thpt lắm đúng k. Nhưng mà đây là mùa hè rất giá trị đó, hãy sống cho thật đáng mùa hè rồi chúng ta cùng bước vào giảng đường đại học với bao khó khăn trước mắt nha. Thành công nhé bạn tui, quý lắm đó. Cảm ơn vì ngồi nghe những câu chuyện tình yêu hơi xàm xàm của tui hihihihi ^^",
+            quotes: [
+                "Những lần nói chuyện chọc nhau",
+                "Những lần call video nói chuyện say sưa",
+                "Sống tốt nhé cậu, cùng nhau thành công nhé !!!"
+            ],
+            finalLetter: "Phương Thuỳ à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé bạn của tui!!!\n\nKý tên: Minh Trí ."
+        },
+
         // --- BẠN CÓ THỂ THÊM NGƯỜI THỨ 2 VÀO DƯỚI NÀY BẰNG CÁCH XÓA 2 DẤU GẠCH CHÉO // ĐẦU DÒNG ---
         // "mot_id_khac_vi_du": {
         //     name: "Tên Bạn Khác",
