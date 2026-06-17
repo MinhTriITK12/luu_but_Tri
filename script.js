@@ -129,11 +129,23 @@ document.addEventListener("DOMContentLoaded", () => {
             image: "anh/hoangchau.jpg",
             message: "Gửi Châu nha,\n\n Đọc được lưu bút này chắc e cũng khá bất ngờ ha, vì sẽ không biết a sẽ chuẩn bị lưu bút ngược lại cho em nè. Hồi xưa lúc a add fr em, cũng thấy e khá là deth, nên hè 12 anh có rảnh nhắn với em, kkk thời gian đầu cx khá là vui nhỉ, nma khúc sau thì a lỡ để ý e nên có gì thông cảm bỏ qua cho anh nhe. Một chút tâm sự tuổi học trò cũng đủ khiến 2 anh em kết nối với nhau và để lại những ấn tượng tốt với nhau nè. Với anh, em rất là thương mấy bé cún, cưng chiều vô cùng, tính cách cũng dễ thương nữa. Tuy gặp nhiều khó khăn về các mối quan hệ xung quanh nhưng em vẫn vượt qua và sống tốt với phiên bản hiện tại của bản thân nhỉ. Chặng đường cấp 3 sắp khép lại rồi đấy. Nhớ là ôn bài cho thật kĩ nè, kỳ thi THPT rất quan trọng đấy nhé. Cùng với đó là hãy sống trọn vẹn những phút giây còn là học sinh với lớp nhé. Sau nì ra trường nhớ lắm đấy \n\n Đó là những lời tâm sự của anh thoi, cảm ơn e vì tờ lưu bút, vì những kỉ niệm thời học sinh nhé. Dù hành trình tương lai có như thế nào thì hãy nhớ sống tốt với phiên bản của mình nhé. Nhớ yêu thương ba mẹ nhiều hơn nè, và cảm ơn vì đã là một phần trong thanh xuân của anh nè. Cảm ơn vì tất cả ^^",
             quotes: [
-                "Mai chơi gì vui vậy",
+                "Mai chơi gì vui vậy e",
                 "Viết lưu bút cho anh nhe",
-                "Tán gẫu, tâm sự"
+                "Tán gẫu, tâm sự chuyện cá nhân kkkk"
             ],
             finalLetter: "Châu à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé em gái a!!!\n\nKý tên: Minh Trí ."
+        },
+
+        "Deskmate Hoá 11 của Trí": {
+            name: "Thảo",
+            image: "anh/vothao.jpg",
+            message: "Gửi bạn Thảo nha,\n\n Từ hồi vô học hoá năm lớp 11, tui mới dô ngồi chung với Như Quỳnh T1, nhưng mà bạn đó lạnh lùng quá, nên tui quyết định đổi chỗ lên chỗ cậu. Cậu lại đồng ý cho tui lên ngồi chung mới hay chứ. Hồi đó thì cậu khá là hướng nội ha, và bây giờ vẫn vậy kkkk. Cậu có một tính cách khá nhẹ nhàng, tâm hướng Phật nè. Cậu lúc đó rất chịu lắng nghe Trí kể chuyện luôn, bao nhiêu câu chuyện trên trời dưới đất đều được cậu nghe mà không một lời than phiền luôn. Cậu luôn tương tác với nhưng câu chuyện ba láp ba xàm của Trí nữa chứ. Quý lắm luôn đó, hồi đó tới hồi kiểm tra Hoá thì 2 đứa nhìn nhau cười khà khà, vì không biết làm, xong phát xuống thì y như rằng là thấp điểm =)))). Nói chứ thời gian trôi qua cũng nhanh ha, mới hồi 11 đó mà chừ mỗi đứa đều tốt nghiệp và lựa chọn được cho mình một lối đi mới với hành trình mới \n\n Thi đại học xong rồi trong lòng cảm thấy gì hong. Đây là mùa hè tuyệt lắm đấy, nhớ hãy tận hưởng trọn vẹn mùa hè này nha. Và đừng quên chuẩn bị hành trang thật vững chắc để đạt được những khát vọng bản thân, lí tưởng mà bản thân hướng tới nhé. Cuối cùng thì cảm ơn vì đã xuất hiện trong thanh xuân của Trí nha, cảm ơn vì tất cả nè ^^",
+            quotes: [
+                "Những lần học hoá xàm hết tiết",
+                "Những lần ngồi học cười nguyên tiết",
+                "Những lần kiểm tra không biết gì hết :D"
+            ],
+            finalLetter: "Thảo à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé bạn của tui!!!\n\nKý tên: Minh Trí ."
         },
 
         // --- BẠN CÓ THỂ THÊM NGƯỜI THỨ 2 VÀO DƯỚI NÀY BẰNG CÁCH XÓA 2 DẤU GẠCH CHÉO // ĐẦU DÒNG ---
