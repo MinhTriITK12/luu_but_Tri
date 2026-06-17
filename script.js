@@ -86,6 +86,19 @@ document.addEventListener("DOMContentLoaded", () => {
             finalLetter: "Phương Thuỳ à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé bạn của tui!!!\n\nKý tên: Minh Trí ."
         },
 
+        "Hạc con siu deth Uyển Nhi": {
+            name: "Uyển Nhi",
+            // Link ảnh: có thể là tên file ảnh (nằm chung thư mục) hoặc link trên mạng
+            image: "anh/uyennhi.jpg",
+            message: "Gửi Uyển Nhi nha!\n\nTừ những ngày đầu lớp 10, bạn Uyển Nhi đã rất nổi trong T1K12 luôn ròi, tớ còn nhớ hồi đó cậu tham gia Hạc rồi còn đi thi toán miền Bắc nữa chứ, cảm giác cậu rất là giỏi luôn nè. Sau đó lớp 11 vô được Hạc thì tớ thấy cậu rất thân thiện gần gũi luôn ớ. Cậu giống như một mẫu người lí tưởng của nhiều bạn nam lắm nè. Thực sự là cậu rất tốt luôn đó, không có điểm gì để chê ở cậu luôn. Cậu luôn mang đến cho tớ cảm giác rất là tích cực khi được nói chuyện với cậu nè. Chặng đường cấp 3 quả thật quá ngắn và còn nhiều vấn vương nhỉ \n\n Sau kì thi đại học cùng với điểm VACT cao ngất thì tớ biết cậu đã chọn được ngôi trường phù hợp ở HCM ròi nhỉ. Dù có ra sao thì hãy mạnh mẽ, phát triển và đạt đến được những thành công mà bản thân hằng mong ước nhé cậu. Thành công nhé cậu, cảm ơn vì đã xuất hiện trong hành trình thanh xuân của tớ nè ^^",
+            quotes: [
+                "Những lần làm quà 20/11",
+                "Những lần sinh hoạt CLB",
+                "Sống tốt nhé cậu, cùng nhau thành công nhé !!!"
+            ],
+            finalLetter: "Uyển Nhi à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé bạn của tui!!!\n\nKý tên: Minh Trí ."
+        },
+
         // --- BẠN CÓ THỂ THÊM NGƯỜI THỨ 2 VÀO DƯỚI NÀY BẰNG CÁCH XÓA 2 DẤU GẠCH CHÉO // ĐẦU DÒNG ---
         // "mot_id_khac_vi_du": {
         //     name: "Tên Bạn Khác",
