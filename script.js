@@ -112,6 +112,18 @@ document.addEventListener("DOMContentLoaded", () => {
             finalLetter: "Thanh Huy à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé bạn của tui!!!\n\nKý tên: Minh Trí ."
         },
 
+        "Bạn tốt 3 cấp của Trí và trùm crypto": {
+            name: "Anh Khoa",
+            image: "anh/anhkhoa.jpg",
+            message: "Gửi bạn tui Anh Khoa,\n\n Từ hồi cấp 1, tui với cậu cũng đã biết nhau rồi nhỉ, cũng chơi chung đồ đó. Hồi đó thì còn nhỏ cũng chỉ biết vài thứ rồi chia sẻ chơi game với nhau thoi. Sang cấp 2 thì t với m lại tiếp tục chung lớp, cũng chơi chung nói chuyện cũng nhiều nè. Hồi cấp 2 thì t khá là nhát, cũng ít nói, nên cũng chưa có kỉ niệm gì nhiều lắm, chắc điều vui nhất với đáng nhớ là hồi đi Huế hồi lớp 9 nhỉ, hồi đó cậu với tui với cậu Minh Lê chung phòng, đi chơi rồi chụp ảnh với nhau các kiểu, cũng vui thật sự. Sang năm cấp 3 thì tui với cậu lại tiếp tục chung trường nhưng chỉ là không chung lớp, rồi cũng chả liên lạc gì với nhau nhiều đâu nhỉ. Sang lớp 11 thì tui đi dự khai giảng như bình thường thì gặp cậu, xong cậu hỏi tui nhiều kiến thức, xong tui cũng tò mò về tìm hiểu về crypto thử. Thời gian đầu nhiều cái tui bất ngờ thì hỏi cậu khá là nhiều nè. Cậu cũng chịu khó trả lời tui khá là nhiệt tình kkk. Khoảng thời gian đó nch cũng cảm ơn cậu nhiều lắm, giúp Trí mở mang tầm mắt và đem lại nguồn thu nhập thụ động cho bản thân, khá là ổn áp hihi. Cảm ơn cậu vì những lần đã giúp đỡ t nhaaaa. AI ra đời rồi những dự án crypto cũng lụi tàn dần theo, khi nào có mảng nào hợp lí, ổn ổn, anh em mình lại tương trợ phát triển tiếp nhe! \n\n Hành trình sắp tới 2 đứa có lẽ khá là xa cách khi mà đứa HCM, đứa thì ĐN, nhưng nhớ là hãy kiên định, theo đuổi đam mê và khát vọng của bản thân nhé. Sau này nhớ đừng quên thèn bạn này nhé. Nhớ lắm đó bạn tui, cũng cảm ơn vì đã tạo nên những nét thanh xuân đặc sắc của t trên hành trình trưởng thành và lớn lên nhé. Cảm ơn vì tất cả ^^",
+            quotes: [
+                "Vì sao nó airdrop vậy m",
+                "Có kèo ni nè, m làm không",
+                "Đi chơi Huế hồi lớp 9"
+            ],
+            finalLetter: "Anh Khoa à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé bạn của tui!!!\n\nKý tên: Minh Trí ."
+        },
+
         // --- BẠN CÓ THỂ THÊM NGƯỜI THỨ 2 VÀO DƯỚI NÀY BẰNG CÁCH XÓA 2 DẤU GẠCH CHÉO // ĐẦU DÒNG ---
         // "mot_id_khac_vi_du": {
         //     name: "Tên Bạn Khác",
@@ -123,7 +135,7 @@ document.addEventListener("DOMContentLoaded", () => {
         //         "Kỷ niệm số 3..."
         //     ],
         //     finalLetter: "Thư cuối gửi bạn khác..."
-        // }
+        // },
     };
 
     let currentPersonData = null;
