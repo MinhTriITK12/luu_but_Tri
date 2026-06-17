@@ -148,6 +148,18 @@ document.addEventListener("DOMContentLoaded", () => {
             finalLetter: "Thảo à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé bạn của tui!!!\n\nKý tên: Minh Trí ."
         },
 
+        "em gái rụt Thục Nhi": {
+            name: "Thục Nhi",
+            image: "anh/thucnhi.jpg",
+            message: "Gửi Thục Nhi đứa em mà anh rất quý,\n\n Có lẽ ngay từ những ngày cùng hoạt động chung gen 3 thì anh với em đôi người xa lạ nhỉ. Cũng chả quen biết gì nhau, cũng chả để ý gì, cũng chả có dịp để gặp mặt nhau nữa nhỉ. Lúc đó là sinh nhật em, thì thấy em chung câu lạc bộ anh cũng đi chúc sinh nhật thế thoi. Mãi đến lúc bonding câu lạc bộ gen 4, lúc đó mới biết và nói chuyện với em nhiều hơn. Thật sự do lúc đó, a đi soi nhỏ nào đứng chụp ảnh bonding bên cạnh mình vậy tarrr, à thì ra là nhỏ Nhi =))). Xong mới có nhiều kỉ niệm nhắn tin, tâm sự quên lối về giữa em với anh =))). Nói vui vậy thoi chứ thấy em là một người siu tâm huyết với câu lạc bộ nè, tính tình deth, cũng hay đùa giỡn với anh, có những câu nói như 'Anh Tríiiiiii' trước mấy đứa bạn anh mà anh ngại với bạn anhhhh chết đi được kkkkk. Ni gọi là làm nũng với anh nè. Nói chứ thời gian thấm thoát thôi đưa, sắp tới anh lên đại học rồi, cũng nhớ lắm mấy lần nhỏ kêu 'anh Trí' kkk. Cũng vui vì được đàn em quý mến nè. Hồi xưa lúc em thi lí 3đ mà em tự hào đi khoe anh quá trời, tròi oi, tuy hơi hơi mệt nhưng mà lúc đó cx vui lắm, vì e mang đến cho anh một sự tích cực, niềm vui lạ lắm. Nếu cho phép anh được quay lại thời 12, thì anh sẽ tận hưởng trọn vẹn từng khoảnh khắc mà anh với em gái được nói chuyện và cười đùa với nhau. \n\n Hành trình tương lai sẽ rất ít có cơ hội gần nhau nè, những kỉ niệm đẹp mà em ở lớp 11 và anh ở lớp 12 cùng đi qua sẽ là những mảnh kí ức tươi đẹp nhất của tuổi học sinh đặc biệt là trong câu lạc bộ mà anh rất yêu quý. Mong rằng tương lai e sẽ sống tốt, và toả sáng với phiên bản tuyệt vời nhất của bản thân em nhé. Hẹn một cuộc đi chơi ngẫu hứng vào một ngày không xa và cuối cùng thì cảm ơn đã xuất hiện trong thanh xuân của anh, cảm ơn vì tất cả ^^",
+            quotes: [
+                "Những đêm tâm sự chuyện tình cảm",
+                "Hồi đi Đà Nẵng, chở e về, tâm sự đủ thứ",
+                "Anh Trí bạn đó bắt nạt em"
+            ],
+            finalLetter: "Nhi à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của anh và em. Tận hưởng trọn vẹn thanh xuân cấp 3 nhé em gái!!!\n\nKý tên: Minh Trí ."
+        },
+
         // --- BẠN CÓ THỂ THÊM NGƯỜI THỨ 2 VÀO DƯỚI NÀY BẰNG CÁCH XÓA 2 DẤU GẠCH CHÉO // ĐẦU DÒNG ---
         // "mot_id_khac_vi_du": {
         //     name: "Tên Bạn Khác",
