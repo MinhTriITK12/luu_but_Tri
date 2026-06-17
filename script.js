@@ -99,6 +99,19 @@ document.addEventListener("DOMContentLoaded", () => {
             finalLetter: "Uyển Nhi à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé bạn của tui!!!\n\nKý tên: Minh Trí ."
         },
 
+        "Thanh Huy bạn tốt của tui": {
+            name: "Thanh Huy",
+            // Link ảnh: có thể là tên file ảnh (nằm chung thư mục) hoặc link trên mạng
+            image: "anh/thanhhuy.jpg",
+            message: "Gửi bạn tui Thanh Huy nha!\n\n Tính ra từ ngay cấp 1 tụi mình đã có cơ hội chơi chung với nhau từ hồi lớp 5 rồi nhỉ. T còn nhớ hồi đó cậu chuyển tới học thì t với cậu cùng chơi và đam mê rubik vô cùng luôn. Hồi nào cũng gạ solo rubik, nghĩ tới hồi đó kỉ niệm lại ùa về nhỉ. Mới đó nhanh thật, thời gian cậu ở NBK, còn tui ở KĐong cũng dần quên đi kỉ niệm cũ rồi nhỉ. Lúc cậu IB cho tui lớp 7, tui cũng không biết cậu là ai luôn kkkk. Sau đó 2 đứa cũng hỏi thăm nhau nhưnng mà không có nhiều lắm nhỉ. Mãi lên khi đi học chung Tiếng Anh, hai đứa mới nói chuyện nhiều hơn, tâm sự nhiều hơn. Có nhìu niềm vui, nỗi buồn cùng nhau. Bao nhiêu kí ức đó ta sẽ còn nhớ mãi đấy. Đặc biệt là lớp 12 này, ta vs m cũng nch với nhau nhiều, đi chơi nhiều nè, chạy bộ rồi đạp xe,... Cũng đáng nhớ ha, cũng vui ha. Tính cách m cx khá trưởng thành đó, chúc cậu sẽ thành công với tình yêu đời mình nha. \n\n Sắp đến thì không biết lựa chọn m như thế nào nhưng hãy kiên quyết và tự tin với lựa chọn của mình nhé. Chặng đường đại học sẽ khá chông gai nhưng không có gì khó, hãy kiên trì với mục tiêu của bản thân. Rồi một ngày nào đó lại hẹn đạp xe rồi đi chơi chung kkkk. Cảm ơn vì đã là một phần thanh xuân đáng nhớ của t ^^",
+            quotes: [
+                "Những lần học chung",
+                "Những lần đạp xe ăn sáng chung",
+                "Sống tốt nhé cậu, cùng nhau thành công nhé !!!"
+            ],
+            finalLetter: "Thanh Huy à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé bạn của tui!!!\n\nKý tên: Minh Trí ."
+        },
+
         // --- BẠN CÓ THỂ THÊM NGƯỜI THỨ 2 VÀO DƯỚI NÀY BẰNG CÁCH XÓA 2 DẤU GẠCH CHÉO // ĐẦU DÒNG ---
         // "mot_id_khac_vi_du": {
         //     name: "Tên Bạn Khác",
