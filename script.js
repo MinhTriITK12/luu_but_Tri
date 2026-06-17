@@ -124,6 +124,18 @@ document.addEventListener("DOMContentLoaded", () => {
             finalLetter: "Anh Khoa à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé bạn của tui!!!\n\nKý tên: Minh Trí ."
         },
 
+        "Hoàng Châu mê cún": {
+            name: "Hoàng Châu",
+            image: "anh/hoangchau.jpg",
+            message: "Gửi Châu nha,\n\n Đọc được lưu bút này chắc e cũng khá bất ngờ ha, vì sẽ không biết a sẽ chuẩn bị lưu bút ngược lại cho em nè. Hồi xưa lúc a add fr em, cũng thấy e khá là deth, nên hè 12 anh có rảnh nhắn với em, kkk thời gian đầu cx khá là vui nhỉ, nma khúc sau thì a lỡ để ý e nên có gì thông cảm bỏ qua cho anh nhe. Một chút tâm sự tuổi học trò cũng đủ khiến 2 anh em kết nối với nhau và để lại những ấn tượng tốt với nhau nè. Với anh, em rất là thương mấy bé cún, cưng chiều vô cùng, tính cách cũng dễ thương nữa. Tuy gặp nhiều khó khăn về các mối quan hệ xung quanh nhưng em vẫn vượt qua và sống tốt với phiên bản hiện tại của bản thân nhỉ. Chặng đường cấp 3 sắp khép lại rồi đấy. Nhớ là ôn bài cho thật kĩ nè, kỳ thi THPT rất quan trọng đấy nhé. Cùng với đó là hãy sống trọn vẹn những phút giây còn là học sinh với lớp nhé. Sau nì ra trường nhớ lắm đấy \n\n Đó là những lời tâm sự của anh thoi, cảm ơn e vì tờ lưu bút, vì những kỉ niệm thời học sinh nhé. Dù hành trình tương lai có như thế nào thì hãy nhớ sống tốt với phiên bản của mình nhé. Nhớ yêu thương ba mẹ nhiều hơn nè, và cảm ơn vì đã là một phần trong thanh xuân của anh nè. Cảm ơn vì tất cả ^^",
+            quotes: [
+                "Mai chơi gì vui vậy",
+                "Viết lưu bút cho anh nhe",
+                "Tán gẫu, tâm sự"
+            ],
+            finalLetter: "Châu à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé em gái a!!!\n\nKý tên: Minh Trí ."
+        },
+
         // --- BẠN CÓ THỂ THÊM NGƯỜI THỨ 2 VÀO DƯỚI NÀY BẰNG CÁCH XÓA 2 DẤU GẠCH CHÉO // ĐẦU DÒNG ---
         // "mot_id_khac_vi_du": {
         //     name: "Tên Bạn Khác",
