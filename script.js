@@ -184,6 +184,42 @@ document.addEventListener("DOMContentLoaded", () => {
             finalLetter: "Phương Nhi à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé bạn của tui!!!\n\nKý tên: Minh Trí ."
         },
 
+        "Văn Dương đệ ruột a Trí": {
+            name: "Văn Dương",
+            image: "anh/vanduong.jpg",
+            message: "Gửi thèn em Văn Dương,\n\n Không ngờ là anh lại có lưu bút ngược lại cho em đk kkk. Từ ngày mới vô trường thấy thèn em khá nổi tiếng khi luôn thấy em xuất hiện ở mọi sự kiện của trường. Không tưởng được thèn em đó với anh Trí có thể thân thiết với nhau như vậy nhỉ. Từ hồi 12, 2 anh em cùng nhau đi tình nguyện hè nè. Cùng với đó vô năm gắn bó với nhau các các cuộc thi khác nhau nhỉ. Từng đợt trò chuyện, nói chuyện tình cảm nè, cùng đi chơi tết nè, tóm chuyện quên lối về các kiểu nè. Nói chung cũng vui nhỉ. Câu chuyện đáng nhớ nhất chắc là những lúc anh em mình tám chuyện tình cảm quá trời, từng câu chuyện kể nhau nghe, cho nhau những bài học hay, những câu chuyện tình cảm tuy hơi trẻ con nhưng nó là cả thanh xuân của mỗi đứa nhỉ, từng lần dự thi cuộc thi AI chung, nhưng mà anh gánh hơi nhiều đó nhé kkkk \n\n Nói vậy thoi chứ cảm ơn vì đã là thanh xuân tuyệt vời của anh. Hy vọng trong tương lai có dịp để ae mình có thể cùng nhau tham dự cuộc thi gì đó hoặc là cái hẹn đi chơi bất ngờ nhỉ. Cuối cùng thì cảm ơn đã xuất hiện trong thanh xuân của anh, cảm ơn vì tất cả kkkk ^^",
+            quotes: [
+                "Tâm sự chuyện tình cảm",
+                "Đi thi nhiều cuộc thi",
+                "Đi tình nguyện hè"
+            ],
+            finalLetter: "Dương à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của anh và em. Tận hưởng trọn vẹn thanh xuân cấp 3 nhé em zai!!!\n\nKý tên: Minh Trí ."
+        },
+
+        "Em gái ruột Hà Linh": {
+            name: "Hà Linh",
+            image: "anh/halinh.jpg",
+            message: "Gửi em gái Hà Linh mà anh rất quý,\n\n Không ngờ là anh lại có lưu bút ngược lại cho e gái đâu đúng k. Từ ngày mà casting CLB về, tự nhiên thấy em gửi lời kết bạn cho anh. Anh cx tò mò đi soi thì thấy em cũng dễ thương nè, cũng nhẹ nhàng giống gu anh vậy kkk. Sau đó vô CLB rồi thì ae mình lại có biết bao dịp gắn bó cùng nhau, hỏi thăm nhau nhỉ. Nhưng mà gắn bó nhất là qua những câu chuyện tâm sự quên lối về giữa đêm nhỉ. Lúc màng đêm buông xuống, tâm hồn ta hay bộc lộ nhiều cảm xúc lắm nè. Em tâm sự với anh quá nhiều chuyện luôn. Anh luôn lắng nghe nè, cũng góp ý cho em gái, cũng cảm thấy quý lắm vì được đàn em chia sẻ, tin tưởng đến vậy luôn. Kỉ niệm với anh lớn nhất có lẽ là những lần anh bày tin cho em học nhỉ, cũng hướng dẫn em các kiểu, nch là được gắn bó với em làm anh nhớ lắm đó. Còn nhớ những lúc em suy vì người cũ, xong anh khuyên quá trời luôn nè. Hãy nhớ rằng không ai được phép làm tổn thương trái tim của em gái anh đâu nhé. Bất kì ai làm gì em thì hãy kể với anh nhe, nhớ nha, a giải quyết cho kkk. Giỡn vui v thoi chứ tgian trôi nhanh nhỉ, 1 năm vừa rồi gắn bó với trg Lê có nhiều niềm vui nỗi buồn nhỉ. Nhưng đó cũng chưa là gì đâu, sang 11,12 em sẽ trưởng thành hơn so với em năm lớp 10 đó. Khi đó chắc em cx quên người anh đã gắn bó với em năm lớp 10 ròi nhỉ kkk. Anh sẽ gửi lưu bút online đây, để khi nào em k còn nhớ người anh này thì mở ra đọc nhen. \n\n Hành trình cấp 3 còn dài lắm đó, nhớ trân trọng từng phút giây nhé. Hãy nhớ làm tốt bổn phận của phó HR thay anh nha, cái gì CLB k ổn thì góp ý giúp anh, nếu k làm gì được thì nhắn anh một tiếng để anh xử lí nha. Một người tốt như em xứng đáng sẽ có một tương lai sáng với bao hoài bão phía trước. Cuối cùng thì cảm ơn đã xuất hiện trong thanh xuân đáng nhớ của anh nha, cảm ơn vì tất cả hihi ^^",
+            quotes: [
+                "Những lần tâm sự chuyện tình cảm",
+                "Anh Trí bày em ôn tin với",
+                "Anh Trí cho em gửi lưu bút"
+            ],
+            finalLetter: "Linh à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của anh và em. Tận hưởng trọn vẹn thanh xuân cấp 3 nhé em gái!!!\n\nKý tên: Minh Trí ."
+        },
+
+        "Bảo Thy head HR": {
+            name: "Bảo Thy",
+            image: "anh/baothy.jpg",
+            message: "Gửi em gái Bảo Thy,\n\n Không ngờ là anh lại có lưu bút ngược lại cho e đâu đúng không. Thực ra anh đã biết e ngay từ cấp 2, khi mà mẹ em đi kết bạn dạo và kb với a. Xong anh cx chả để ý cho tới khi thấy em đi casting CLB. Cái vô đúng cái ban của anh nữa chứ. Cũng bất ngờ lắm kkk, cũng thấy à con bé ni khá nghiêm túc nè, khả năng vô ban mình cũng làm ra được việc phết, công nhận là vậy thật. Minh chứng là chức trưởng ban HR đã thể hiện rõ điều đó nè. Kỉ niệm đáng nhớ chắc là chuyến đi chơi mì ăn liền khi cái team thiếu người và bù anh vô haaa kkkk. Cũng vui vì anh ít đi chơi lắm, được rủ đi chơi, được hú hét cùng đàn em là kỉ niệm không thể quên với anh đâu hihi. Hy vọng lại có dịp có những chuyến đi chơi ngẫu hứng như vậy nữa ha, hy vọng là vậy. \n\n Năm ni cũng sang 12 ròi, cũng sắp kết thúc hành trình thanh xuân rồi đấy, nhớ trân trọng từng phút giây khi còn là học sinh nha, sau này lại tốt nghiệp lại buồn lắm đấy hihi. Nhớ ôn thi THPT cho thật tốt nè. Cuối cùng thì cảm ơn em đã là một phần thanh xuân đáng nhớ của anh, cảm ơn vì tất cả ^^",
+            quotes: [
+                "Đi chơi ngẫu hứng dịp tết",
+                "Những lần deadline dí",
+                "Những lần sinh hoạt CLB"
+            ],
+            finalLetter: "Thy à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của anh và em. Tận hưởng trọn vẹn thanh xuân cấp 3 nhé em gái!!!\n\nKý tên: Minh Trí ."
+        },
+
         // --- BẠN CÓ THỂ THÊM NGƯỜI THỨ 2 VÀO DƯỚI NÀY BẰNG CÁCH XÓA 2 DẤU GẠCH CHÉO // ĐẦU DÒNG ---
         // "mot_id_khac_vi_du": {
         //     name: "Tên Bạn Khác",
