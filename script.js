@@ -172,6 +172,18 @@ document.addEventListener("DOMContentLoaded", () => {
             finalLetter: "Minh Phương à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé bạn của tui!!!\n\nKý tên: Minh Trí ."
         },
 
+        "Phương Nhi gơ thể thao": {
+            name: "Phương Nhi",
+            image: "anh/phuongnhi.jpg",
+            message: "Gửi bạn tui Phương Nhi,\n\n Mới dô lớp 10, ngày nào cũng rảnh nên Trí hay ra nhà đa năng đánh cầu lông nè. Thì lại được gặp cậu và được solo với cậu kkk. Trình Trí thì cũng gà gà ngang cậu thoi kkk. Cũng đánh cầu lông, cũng chào hỏi đồ đó. Sau đó mới kết bạn và rủ nhau chơi cầu lông nhiều hơn. Nhiều lần rủ, nhiều lần chơi, nhiều lần nấu xói =)))). Nhắc nhớ sơ vậy thoi nè. Sang 11 thì 2 đứa lại chung CLB, lại nghe cậu than vãn CLB hơi nhiều kkk, được cái là lúc đó cậu khá là năng nổ, làm việc hết mình vì CLB. Theo Trí thì Nhi là cô gái rất là giỏi nè, một gơ thể thao chính hiệu, một người bạn gắn bó khá thân thiết với Trí năm lớp 10,11 nữa nè. Trí nhớ có nhiều lúc cậu call video với Trí mà chia sẻ đủ thứ chuyện hết. Cũng đáng nhớ ha, nhắc đến kỉ niệm 2 đứa thì tâm sự nhiều, nói chuyện nhiều, đánh cầu lông nhiều rồi cùng đạt huy chương khpd nữa chứ. Tất cả những thứ đó không biết Nhi còn nhớ hong, hay đã quên ròi, Trí còn nhớ rõ lắm đó hihi. \n\n Sắp tới là chặng đường đại học đầy gian lao và khó khăn. Trí biết Nhi đã chọn được cho mình con đường đại học riêng. Hy vọng nơi đó sẽ là khởi đầu mới đầy thuận lợi với Nhi, đừng quên người bạn từng chơi chung năm cấp 3 này nhé. Cuối cùng thì cảm ơn đã xuất hiện trong thanh xuân của Trí,  cảm ơn vì từng đồng hành cùng nhau với những kỉ niệm tươi đẹp nhất của tuổi học trò, cảm ơn vì tất cả ^^",
+            quotes: [
+                "Những lần đánh cầu lông chung",
+                "Những lần cùng đeo huy chương chạy bộ hội khoẻ phù đổng",
+                "Những lần call video nói chuyện quá trời"
+            ],
+            finalLetter: "Phương Nhi à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé bạn của tui!!!\n\nKý tên: Minh Trí ."
+        },
+
         // --- BẠN CÓ THỂ THÊM NGƯỜI THỨ 2 VÀO DƯỚI NÀY BẰNG CÁCH XÓA 2 DẤU GẠCH CHÉO // ĐẦU DÒNG ---
         // "mot_id_khac_vi_du": {
         //     name: "Tên Bạn Khác",
