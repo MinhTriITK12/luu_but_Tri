@@ -160,6 +160,18 @@ document.addEventListener("DOMContentLoaded", () => {
             finalLetter: "Nhi à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của anh và em. Tận hưởng trọn vẹn thanh xuân cấp 3 nhé em gái!!!\n\nKý tên: Minh Trí ."
         },
 
+        "Người bạn Trí ngưỡng mộ": {
+            name: "Minh Phương",
+            image: "anh/minhphuong.jpg",
+            message: "Gửi Minh Phương nhe,\n\n Từ những ngày đầu cấp 2, cậu đã nổi lên trong trường Kim Đồng ròi, và tớ cũng chỉ là một hạt cát bé giữa sa mạc. Nhìn mọi người toả sáng, còn mình loi doi với thứ ánh sáng nhỏ bé hihi. Hồi đó, tớ cx không nghĩ tương lai có thể làm bạn với cậu đâu hihi. Mãi lên cấp 3 được đi thi riêng, được làm bài chung với cậu, được nói chuyện nhiều hơn, khi đó mới có một người bạn như bây h. Thời gian thấm thoát thôi đưa, cậu cũng lớn r, cũng trưởng thành rồi. Cũng có cho mình một lựa chọn hợp lí ròi. Nhưng mà đừng quên những kỉ niệm đẹp với nhau nhe. Đặc biệt là hôm cậu rủ tớ qua nhà nhưng mà đi bộ 4km r dề, dề xong còn bị mưa phải đi taxi về. Nhớ lại cx vui với đáng nhớ thật. Cơn mưa bất chợt đó đã kéo dài cuộc nói chuyện tới tận 7h tối :D. Nói vậy thoi, cảm ơn vì từng là một người bạn mà Trí rất ngưỡng mộ và rất quý nè \n\n Hè này nhớ luyện tập thể thao thường xuyên để có một sức khoẻ tốt như Trí nha. Hãy nhớ dù hành trình tương lai có khó khăn, có gian lao, thì hãy giữ cho mình một ngọn lửa khát vọng, đạt tới những vinh quang mà mình hằng ao ước nha. Cuối cùng thì cảm ơn vì đã là một phần thanh xuân tươi đẹp của Trí, cảm ơn vì tất cả ^^",
+            quotes: [
+                "Những lần chạy bộ chung",
+                "Những lần nói chuyện chung",
+                "Những lần nhìn cậu toả sáng"
+            ],
+            finalLetter: "Minh Phương à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé bạn của tui!!!\n\nKý tên: Minh Trí ."
+        },
+
         // --- BẠN CÓ THỂ THÊM NGƯỜI THỨ 2 VÀO DƯỚI NÀY BẰNG CÁCH XÓA 2 DẤU GẠCH CHÉO // ĐẦU DÒNG ---
         // "mot_id_khac_vi_du": {
         //     name: "Tên Bạn Khác",
