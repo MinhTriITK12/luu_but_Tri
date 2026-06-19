@@ -220,6 +220,42 @@ document.addEventListener("DOMContentLoaded", () => {
             finalLetter: "Thy à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của anh và em. Tận hưởng trọn vẹn thanh xuân cấp 3 nhé em gái!!!\n\nKý tên: Minh Trí ."
         },
 
+        "Bí thư xịn nhất ITK12": {
+            name: "Phượng Lê",
+            image: "anh/phuongle.jpg",
+            message: "Gửi Phượng bí thư tín nhất ITK12,\n\n Chắc fe cũng bất ngờ vì lưu bút ngược lại mình đúng k kkk. Từ ngay những ngày đầu vào ITK12, tớ rất ấn tượng với Phượng bởi vẻ xinh đẹp và sự tự tin vốn có của mình trong ITK12. Phượng có một giọng hát rất hay nè, cùng với đó kỉ năng tập dân vũ và rất tốt luôn nè. Cậu biết sao không, ở lớp ITK12 Trí cũng gắn bó với Phượng và hiểu về Phượng cx nhiều lắm đấy, những lúc Phượng hét quá trời và khóc vì bất lực với lớp cũng được Trí nhớ rõ lắm đó, một trái tim nhân hậu và hết mình vì lớp luôn. Những lần như thế, Trí quý bí thư lắm, nhưng mà Phượng có một nhược điểm mà Trí khuyên mãi không chịu thay đổi nha đó là phải tập thể dục để nâng cao sức đề kháng, nhìn Phượng khoẻ vậy chứ có khoẻ hơn ai đâu. Tương lai nhớ phải đầu tư sức khoẻ nha, đầu tư này không có lỗ đâu nè. Những lần bày bài cho Phượng cx có để ý Phượng đó, nma nghĩ lại cũng muốn giữ gìn tình bạn đẹp này nhỉ. Tương lai có duyên thì sẽ gặp lại nhỉ, biết đâu lại cùng hợp tác làm gì đó chăng kkk. \n\n Nhắc sơ kỉ niệm vậy thoi, chứ Trí biết Phượng còn nhiều nỗi lòng nhưng hãy tạm gác qua một bên và hướng tới những mục tiêu trước mắt mà mình hướng tới nha. Cuối cùng thì chúc Phượng sẽ thành công trên con đường mình chọn, cảm ơn vì đã là một phần thanh xuân đáng nhớ của Trí, cảm ơn vì tất cả ^^",
+            quotes: [
+                "Những lần ngồi giảng bài cho Phượng",
+                "Những lần được Phượng tập dân vũ, tập văn nghệ",
+                "Những lần được Phượng cổ vũ thi chạy vũ trang"
+            ],
+            finalLetter: "Phượng à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé bạn của tui!!!\n\nKý tên: Minh Trí ."
+        },
+
+        "Hồng Anh deskmate lớp lí 11": {
+            name: "Hồng Anh",
+            image: "anh/honganh.jpg",
+            message: "Gửi Hồng Anh,\n\n Không ngờ lại có lưu bút cho cậu đúng k kkk. Nói chứ thời gian thấm thoát trôi đưa nhanh nhỉ, mới những ngày ae mình còn ngồi chung học lí cô Phúc, nói chuyện đủ điều từ Hạc tới vẽ tới người này người kia kkk. Tính cậu thì cũng deth nè, cũng hay bày bài ta học bài nữa, ta quý lắm. Mi còn có đam mê với nhiều cái mà ta không đam mê lắm, ngồi nghe m kể chuyện cũng vui dù không biết gì hết, nói ra sợ m giận ghê kkk. Nói chứ một năm vừa qua đó tuy ít mà gắn kết, mà vui. Hy vọng tương lai lại có dịp học chung hay có dịp làm việc chung nhỉ. Nói chung là một người bạn đáng quý trong lớp ITK12 cũng là một người bạn mà t rất quý nè. \n\n Sắp tới là hành trình đại học đầy gian lao và khó khăn trên giảng đường đại học, chúc cậu sẽ thành công trên con đường mình chọn nhe. Không biết xuất phát điểm của mỗi người như thế nào nhưng hãy tự tin vào bản thân và cố gắng phát triển thật tốt thì tương lai sẽ tốt thôi nè. Cuối cùng thì cảm ơn đã xuất hiện trong thanh xuân của tớ, cảm ơn vì tất cả ^^",
+            quotes: [
+                "Những lần bày bài lí cho Trí",
+                "Những lần đánh lộn",
+                "Những kỉ niệm đẹp ở ITK12"
+            ],
+            finalLetter: "Hồng Anh à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của mỗi đứa. Thành công nhé bạn của tui!!!\n\nKý tên: Minh Trí ."
+        },
+
+        "em gái chung đam mê Ngọc Hân": {
+            name: "Ngọc Hân",
+            image: "anh/ngochan.jpg",
+            message: "Gửi em gái Ngọc Hân mà a rất quý,\n\n Không ngờ lại có lưu bút ngược lại cho em đúng không, kkk. 1 năm vừa qua nhanh nhỉ, cũng không biết tự bao giờ mà hai anh em có thể cho nhau nhiều kỉ niệm đến như vậy. Nói như vậy thoi, những khoảng khắc nhỏ nhoi đã đắp xây nên nên những kỉ niệm khó quên bên nhau. Lần đầu gặp em có lẽ là hôm đi chạy việt dã nhỉ, chỉ nhớ rằng hôm đó có con bé nào cũng xinh xinh mà mặt buồn buồn, rồi ngồi thẫn với thơ một chỗ. Nhắc đến kỉ niệm lại ùa về nhỉ. Sau hôm đó tự nhiên có đề xuất kết bạn cho anh, con bé nào đó mà nó cũng lầy lầy cx trẻ trâu gửi kết bạn cho vui nhỉ kkk. Xong e cx ac friend, mà mãi tới count down anh mới có dịp bắt chuyện, bắt chuyện xong thì biết nhỏ cx có bồ rồi thì thoi ae mình giữ làm kỉ niệm cho vui thoi kkk. Nói chứ nhỏ với anh chung đam mê hơi nhiều nhen, nào là em thích công nghệ độc lạ rồi còn hay chạy bộ nữa, toàn những điểm ấn tượng thoi kkk. \n\n Nói chứ vào hè ae mình làm cái lịch chạy bộ chung cho vui hè, mấy nay anh train cx căng mà quên mất đứa em của tui luôn. Hành trình thanh xuân cũng dần khép lại rồi đó, cũng có cho nhau nhiều kỉ niệm nhỉ, cảm ơn hành trình 1 năm vừa rồi với anh nha, từ những buổi tâm sự chuyện tình cảm tới những buổi giảng tin cho em gái kkk. Cuối cùng thì cảm ơn vì đã xuất hiện trong thanh xuân của anh, cảm ơn vì tất cả nha ",
+            quotes: [
+                "Những đêm giảng bài tin cho em",
+                "Những đêm tâm sự chuyện tình cảm ",
+                "Những lần than vãn với anh Trí"
+            ],
+            finalLetter: "Hân à,\n\nCó những người vội bước qua nhau như cơn gió. Nhưng chúng ta đã may mắn có những kỉ niệm đẹp thời học sinh, những khoảnh khắc đó sẽ còn được ghi nhớ mãi trong kí ức của anh và em. Tận hưởng trọn vẹn thanh xuân cấp 3 nhé em gái!!!\n\nKý tên: Minh Trí ."
+        },
+
         // --- BẠN CÓ THỂ THÊM NGƯỜI THỨ 2 VÀO DƯỚI NÀY BẰNG CÁCH XÓA 2 DẤU GẠCH CHÉO // ĐẦU DÒNG ---
         // "mot_id_khac_vi_du": {
         //     name: "Tên Bạn Khác",
